@@ -1,0 +1,17 @@
+{
+    "101": {
+        "name": "Abdullah",
+        "marks": 85,
+        "grade": "A+"
+    },
+    "102": {
+        "name": "Shazi",
+        "marks": 75,
+        "grade": "B+"
+    },
+    "103": {
+        "name": "Alyan",
+        "marks": 60,
+        "grade": "C"
+    }
+}
